@@ -1,0 +1,31 @@
+VOCABULARIO
+	Sustantivos
+	Adjetivos
+	Verbos
+	Adverbios
+	Frases
+	kanji(kanki y ejemplos)
+GRAMATICA
+	pregunta
+	extras(sufijos,articulos,pronombres,etc)
+
+UNIDADES ESPECIALES
+	contador(en todos lados)
+	paises(1)
+	idiomas(1)
+	dias semana(3)
+	calendario(5)
+	comida(6)
+	mi familia a terceros(7)
+	mi familia a ellos(7)
+	familia de otros(7)
+	colores(8)
+	posiciones(10)
+	fecha calendario(11)
+	sabores(12)
+	estaciones del año(12)
+	climas(12)
+	pregunta y articulo(13)
+	frecuencia(15)
+	partes del cuerpo(16)
+	

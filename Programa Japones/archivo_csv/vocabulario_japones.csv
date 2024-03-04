@@ -1,0 +1,1249 @@
+traduccion,unidad,tipo_palabra,hiragana,katakana,kanji
+hola,1,frases,おはよう,*,*
+yo,1,extras,わたし,*,私
+nosotros,1,extras,わたしたち,*,*
+usted,1,extras,あなた,*,*
+aquella,1,extras,あのひと/あのかた,*,*
+ustedes,1,extras,みなさん,*,*
+sufijo niño,1,extras,ちゃん,*,*
+sufijo señor,1,extras,さん,*,*
+SI,1,extras,はい,*,*
+NO,1,extras,いいえ,*,*
+profesor,1,sustantivo,せんせい,*,*
+maestro,1,sustantivo,きょうし,*,*
+estudiante,1,sustantivo,がくせい,*,*
+empleado empresa,1,sustantivo,かいしゃいん,*,*
+empleado banco,1,sustantivo,ぎんこういん,*,*
+medico,1,sustantivo,いしゃ,*,*
+investigador,1,sustantivo,けんきゅうしゃ,*,*
+ingeniero,1,sustantivo,えんじにあ,エンジニア,*
+universidad,1,sustantivo,だいがく,*,大学
+hospital,1,sustantivo,びょういん,*,*
+QUIEN,1,pregunta,だれ,*,*
+años,1,contador,さい,*,*
+Cuantos Años,1,pregunta,なんさい,*,*
+mucho gusto de conocerte,1,frases,はいじめまして,*,*
+encantado de conocerte,1,frases,どうぞよろしくおねがいします,*,*
+repita eso por favor,1,frases,もいちどおねがいします,*,*
+igualmente,1,frases,こちらこそ,*,*
+Estados unidos,1,pais,あめりか,アメリカ,*
+Argentina,1,pais,あるぜんちん,アルゼンチン,*
+Inglaterra,1,pais,いぎりす,イギリス,*
+Italia,1,pais,いたりあ,イタリア,*
+Iran,1,pais,いらん,イラン,*
+Indonesia,1,pais,いんどねしあ,インドネシア,*
+Egipto,1,pais,えぎぷと,エギプト,*
+Australia,1,pais,あっすとらりあ,アッストラリア,*
+Canada,1,pais,かなだ,カナダ,*
+Corea del Sur,1,pais,かんこく,カンコク,*
+China,1,pais,ちゅうごく,チュウゴク,*
+Arabia Saudita,1,pais,さうじあらびあ,サウジアラビア,*
+Singapur,1,pais,しんがぷっる,シンガプッル,*
+España,1,pais,すぺいん,スペイン,*
+Tailandia,1,pais,たい,タイ,*
+Alemania,1,pais,どいつ,ドイツ,*
+Japon,1,pais,にほん,ニホン,日本
+Francia,1,pais,ふらんす,フランス,*
+Filipinas,1,pais,ふいりっぴん,フイリッピン,*
+Vietnam,1,pais,べとなむ,ベトナム,*
+Malasia,1,pais,まれしあ,マレーシア,*
+Mexico,1,pais,めきしこ,メキシコ,*
+Rusia,1,pais,るしあ,ルシア,*
+India,1,pais,いんど,インド,*
+Brasil,1,pais,ぶらしる,ブラシル,*
+ingles,1,idioma,えいご,エイゴ,*
+español,1,idioma,すぺいんご,スペインゴ,*
+frances,1,idioma,ふらんすご,フランスゴ,*
+portugues,1,idioma,ぽるとがるご,ポルトガルゴ,*
+japones,1,idioma,にほんご,ニホンゴ,日本語
+chino,1,idioma,ちゅごくご,チュゴクゴ,*
+aleman,1,idioma,どいつご,ドイツゴ,*
+arabe,1,idioma,あらびあご,アラビアゴ,*
+italiano,1,idioma,いたりあご,イタリアゴ,*
+ruso,1,idioma,るしあご,ルシアゴ,*
+sufijo gentilicio,1,extras,じん,ジン,人
+sufijo idioma,1,extras,ご,ゴ,語
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+este/a/o,2,extras,これ,*,*
+ese/a/o,2,extras,それ,*,*
+aquel/a/llo,2,extras,あれ,*,*
+este S,2,extras,この,*,*
+ese S,2,extras,その,*,*
+aquel S,2,extras,あの,*,*
+libro,2,sustantivo,ほん,*,本
+periodico,2,sustantivo,しんぶん,*,*
+diccionario,2,sustantivo,じしょ,*,*
+revista,2,sustantivo,ざっし,*,*
+agenda,2,sustantivo,てちょう,*,*
+cuaderno,2,sustantivo,のと,ノート,*
+tarjeta de negocios,2,sustantivo,めいし,*,*
+tarjeta,2,sustantivo,かど,カード,*
+tarjeta de telefono,2,sustantivo,てれほんかど,テレホンカード,*
+papel,2,sustantivo,かみ,*,*
+silla,2,sustantivo,いす,*,*
+escritorio,2,sustantivo,つくえ,*,*
+lapiz,2,sustantivo,えんぴつ,*,*
+boligrafo,2,sustantivo,ぼるペん,ボ－ルぺン,*
+portaminaz,2,sustantivo,しゃぷぺんしる,シャ－プペンシル,*
+llave,2,sustantivo,かぎ,*,*
+reloj,2,sustantivo,とけい,*,*
+paraguas,2,sustantivo,かさ,*,*
+valija,2,sustantivo,かばん,*,*
+cassete,2,objeto,sustantivo,カセット,*
+automovil,2,sustantivo,くらま/じどうしゃ,*,*
+grabadora,2,sustantivo,てぷれこだ,テ-プレコ-ダ-,*
+television,2,sustantivo,てるび,テルビ,*
+radio,2,sustantivo,らじお,ラジオ,*
+camara,2,sustantivo,かめら,カメラ,*
+computadora,2,sustantivo,こんぴうた,コンピューター,*
+computadora personal,2,sustantivo,ぱそこん,パソコン,*
+cafe,2,sustantivo,こひ,コ-ヒ-,*
+caja,2,sustantivo,はこ,*,*
+QUE,2,pregunta,なに/なん,*,何
+DE QUIEN,2,pregunta,だれの,*,*
+QUIEN,2,pregunta,どなた,*,*
+asi,2,frases,そう,*,*
+no es asi,2,frases,ちかいです,*,*
+ah mira,2,frases,そうですか,*,* 
+esto...,2,frases,あのう,*,*
+por favor,2,frases,おねがい,*,*
+gracias,2,frases,どうも,*,*
+muchas gracias,2,frases,ありがとうございます,*,*
+le agradezco de antemano su gentil apoyo,2,frases,これから　おせわになります,*,*
+yo tambien encantado de conocerle,2,frases,こちらこそ　よるしく,*,*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+aqui,3,extras,ここ,*,*
+este lugar,3,extras,こちら,*,*
+ahi,3,extras,そこ,*,*
+ese lugar,3,extras,そちら,*,*
+alli,3,extras,あそこ,*,*
+aquel lugar,3,extras,あちら,*,*
+donde,3,extras,どこ,*,*
+que lugar,3,extras,どちら,*,*
+aula,3,sustantivo,きょうしつ,*,*
+comedor,3,sustantivo,しょくどう,*,*
+oficina,3,sustantivo,じむしょ,*,*
+sala de reuniones,3,sustantivo,かいきしつ,*,*
+recepccion,3,sustantivo,うけつけ,*,*
+loby,3,sustantivo,ろび-,ロビー,*
+habitacion,3,sustantivo,へや,*,*
+baño,3,sustantivo,おてあらい,トイレ,*
+escaleras,3,sustantivo,かいだん,*,*
+ascensor,3,sustantivo,えれべ-た,エレベーター,*
+escalera mecanica,3,sustantivo,えすかれ-た,エスカレーター,*
+pais,3,sustantivo,(お)くに,*,お国
+empresa,3,sustantivo,かいしゃ,*,*
+casa,3,sustantivo,うち,*,*
+seccio de shoppin,3,sustantivo,うりば,*,*
+sotano,3,sustantivo,ちか,*,*
+pisos,3,contador,かい,*,*
+telefono,3,sustantivo,でんわ,*,*
+zapatos,3,sustantivo,くつ,*,*
+corbata,3,sustantivo,ねくたい,ネクタイ,*
+vino,3,sustantivo,わいん,ワイン,*
+tabaco,3,sustantivo,たばこ,タバコ,*
+yen,3,sustantivo,えん,*,円
+cuanto cuesta,3,pregunta,いくら,*,*
+disculpe,3,frases,すみません,*,*
+muestremelo por favor,3,frases,(を)みせてください,*,*
+bueno,3,frases,じゃ,*,*
+demelo por favor,3,frases,(を)ください,*,*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+levantarse,4,verbos,おきます,*
+dormir,4,verbos,ねます,*,*
+trabajar,4,verbos,はたらきます,*,*
+descansar,4,verbos,やすみます,*,*
+estudiar,4,verbos,べんきょうします,*,*
+terminar,4,verbos,おわります,*,*
+grandes almacenes,4,sustantivo,でぱ-と,デパート,*
+banco,4,sustantivo,ぎんこう,*,*
+oficina de correos,4,sustantivo,ゆうびんきょく,*,*
+biblioteca,4,sustantivo,としょかん,*,*
+museo de bellas artes,4,sustantivo,びじゅつかん,*,*
+mañana,4,sustantivo,あさ,*,*
+tarde,4,sustantivo,ひる,*,*
+noche,4,sustantivo,ばん,*,*
+ahora,4,adverbios,いま,*,*
+y media,4,extras,はん,*,半
+am,4,extras,ごぜん,*,*
+pm,4,extras,ごご,*,*
+horas,4,contador,じ,*,*
+minutos,4,contador,ふん／ぷ,*,分
+Lunes,4,dias semana,げつようび,*,月曜日
+Martes,4,dias semana,かようび,*,火曜日
+Miércoles,4,dias semana,すいようび,*,水曜日
+Jueves,4,dias semana,もくようび,*,木曜日
+Viernes,4,dias semana,きんよきん,*,金曜日
+Sabado,4,dias semana,どようび,*,土曜日
+Domingo,4,dias semana,にちようび,*,日曜日
+que día,4,pregunta,なにようび,*,何曜日
+número,4,sustantivo,ばんごう,*,*
+que número,4,pregunta,なんばｎ,*,*
+por favor hagalo,4,frases,おねがいします,*,*
+muy bien,4,frases,かしこまりました,*,*
+cuasta mucho no,4,frases,たいへんですね,*,*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ir,5,verbos,行きます,*,*
+venir,5,verbos,きます,*,*
+regresar en lugar propio,5,verbos,かえります,*,*
+regresar lugar no propio,5,verbos,もどります,*,*
+avion,5,sustantivo,ひこうき,*,*
+barco,5,sustantivo,ふね,*,*
+tren,5,sustantivo,でんしゃ,*,*
+subte,5,sustantivo,ちかてつ,*,*
+tren bala,5,sustantivo,しんかんせん,*,*
+colectivo,5,sustantivo,ばす,バス,*
+taxi,5,sustantivo,たくし-,タクシー,*
+bicicleta,5,sustantivo,じてんしゃ,*,*
+a pie,5,adverbios,あるいて,*,*
+persona,5,sustantivo,ひと,*,人
+amigo,5,sustantivo,ともだち,*,友だち
+novio,5,sustantivo,かれ,*,*
+novia,5,sustantivo,かのじょ,*,*
+familia,5,sustantivo,かぞく,*,*
+solo,5,adverbios,ひとりで,*,一人で
+semana pasada,5,calendario,せんしゅう,*,先しゅう
+esta semana,5,calendario,こんしゅう,*,*
+la proxima semana,5,calendario,らいしゅう,*,*
+mes pasado,5,calendario,せんげつ,*,先月
+este mes,5,calendario,こんげつ,*,こん月
+el proximo mes,5,calendario,らいげつ,*,らい月
+año pasaso,5,calendario,きょねん,*,きょ年
+este año,5,calendario,ことし,*,こ年
+el proximo año,5,calendario,らいねん,*,らい年
+primer dia,5,calendario,ついたち,*,一日
+segundo dia,5,calendario,ふつか,*,二日
+tercer dia,5,calendario,みっか,*,三日
+cuarto dia,5,calendario,よっか,*,四日
+quinto dia,5,calendario,いつか,*,五日
+sexto dia,5,calendario,むいか,*,六日
+septimo dia,5,calendario,なのか,*,七日
+octavo dia,5,calendario,ようか,*,八日
+noveno dia,5,calendario,ここのか,*,九日
+decimo dia,5,calendario,とおか,*,十日
+decimo cuarto dia,5,calendario,じゅうよっか,*,十四日
+decimo noveno dia,5,calendario,じゅうくにち,*,十九日
+vigésimo dia,5,calendario,はつか,*,二十日
+vigésimo cuarto dia,5,calendario,にじゅうよっか,*,二十四日
+vigésimo noveno dia,5,calendario,にじゅうくにち,*,二十九日
+cuando,5,pregunta,いつ,*,*
+cumpleaños,5,sustantivo,たんじょうび,*,たんじょう日
+tren local,5,sustantivo,ふつう,*,*
+tren rapido,5,sustantivo,くうこう,*,*
+tren expres,5,sustantivo,とっくう,*,*
+siguiente,5,adverbios,つぎの,*,*
+no hay de que,5,frases,どうしまして,*,*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+pan,6,comida,ぱん,パソ,*
+huevos,6,comida,たまご,*,*
+carne,6,comida,にく,*,*
+pescado,6,comida,さかな,*,*
+verdura,6,comida,やさい,*,*
+fruta,6,comida,くだもの,*,*
+carne de vaca,6,comida,ぎゅうにく,*,*
+leche de vaca,6,comida,ぎゅうにゆう,*,*
+carne de pollo,6,comida,とりにく,*,*
+carne de cerdo,6,comida,ぶたにく,*,*
+agua,6,comida,みす,*,*
+jugo,6,comida,じゅ-す,ジュ－ス,*
+te verde,6,comida,おちゃ,*,*
+te comun,6,comida,こうちゃ,*,*
+cerveza,6,comida,おさけ,*,*
+vino,6,comida,わいん,ワイン,*
+leche comun,6,comida,みるく,ミルク,*
+alcohol,6,comida,おさけ,*,*
+sake,6,comida,にほんのおさけ,*,日本のさけ
+desayuno,6,comida,あさごはん,*,*
+comida o arroz,6,comida,ごはん,*,*
+almuerzo,6,comida,ひるごはん,*,*
+cena,6,comida,ばんごはん,*,*
+cigarrillos,6,sustantivo,たばこ,タバコ,*
+foto,6,sustantivo,しゃじん,*,*
+musica,6,sustantivo,おんがく,*,*
+carta,6,sustantivo,てがみ,*,手がみ
+reporte,6,sustantivo,れぽ-と,レポート,*
+mail,6,sustantivo,め-る,メール,*
+video,6,sustantivo,びでお,ビデオ,*
+pelicula,6,sustantivo,えいが,*,*
+anime,6,sustantivo,あにめ,アニメ,*
+drama,6,sustantivo,どらま,ドラマ,*
+tarea,6,sustantivo,しゅくだい,*,*
+practica,6,sustantivo,わんしゅう,*,*
+trabajo,6,sustantivo,しごと,*,*
+tenis,6,sustantivo,てにす,テニス,*
+futbol,6,sustantivo,さっか-,サッカー,*
+basquetball,6,sustantivo,ばすけっとぼ-る,バスケットボール,*
+baseball,6,sustantivo,やきゅう,*,*
+videojuegos,6,sustantivo,げ-む,ゲ-ム,*
+fiesta,6,sustantivo,ぱ-ちい,パーティ,*
+contemplacion de los sakuras,6,sustantivo,おはなみ,*,*
+vacaciones,6,sustantivo,りょこう,*,*
+tienda,6,sustantivo,みせ,*,*
+restaurante,6,sustantivo,れすとらん,レストラン,*
+jardin,6,sustantivo,にわ,*,*
+comer,6,verbos,たべます,*,*
+tomar,6,verbos,のみます,*,*
+aspirar,6,verbos,すいます,*,*
+tomar,6,verbos,とります,*,*
+comprar,6,verbos,かいます,*,*
+escuchar,6,verbos,ききます,*,*
+leer,6,verbos,よみます,*,*
+escribir,6,verbos,かきます,*,*
+mirar,6,verbos,みます,*,*
+hacer,6,verbos,します,*,*
+encontrarse,6,verbos,あいます,*,*
+juntos,6,adverbios,うっしょに,*,*
+poco,6,adverbios,ちょっと,*,*
+siempre,6,adverbios,いつも,*,*
+de vez en cuando,6,adverbios,ときどき,*,*
+y despues,6,extras,それから,*,*
+y ademas,6,extras,そして,*,*
+okay,6,extras,ええ,*,*
+esta bueno no,6,frases,いいですね,*,*
+te vere mañana,6,frases,じゃ また,*,*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+abuelo,7,mi familia a terceros,そふ,*,*
+abuela,7,mi familia a terceros,そぼ,*,*
+padre,7,mi familia a terceros,ちち,*,父
+madre,7,mi familia a terceros,はは,*,母
+hermana mayor,7,mi familia a terceros,あね,*,*
+hermano mayor,7,mi familia a terceros,あに,*,*
+hermana menor,7,mi familia a terceros,おもうと,*,*
+hermano menor,7,mi familia a terceros,おとうと,*,*
+esposa,7,mi familia a terceros,つま,*,*
+esposo,7,mi familia a terceros,おっと,*,*
+hija,7,mi familia a terceros,むすめ,*,*
+hijo,7,mi familia a terceros,むすこ,*,*
+familia,7,mi familia a terceros,かぞく,*,*
+abuelos,7,mi familia a terceros,ぞふぼ,*,*
+padres,7,mi familia a terceros,りょうしん,*,*
+hermanos,7,mi familia a terceros,きょうだい,*,*
+matrimonio,7,mi familia a terceros,ふうふ,*,*
+niños,7,mi familia a terceros,こども,*,子ども
+abuelo,7,mi familia a ellos,おじいさん,*,*
+abuela,7,mi familia a ellos,おばあさん,*,*
+padre,7,mi familia a ellos,おとおさん,*,*
+madre,7,mi familia a ellos,おかあさん,*,*
+hermana mayor,7,mi familia a ellos,おねえさん,*,*
+hermano mayor,7,mi familia a ellos,おにいさん,*,*
+hermana menor,7,familia de otros,いもうとさん,*,*
+hermano menor,7,familia de otros,おとうとさん,*,*
+esposa,7,familia de otros,おくさん,*,*
+esposo,7,familia de otros,ごしゅうじん,*,*
+hijos,7,familia de otros,おこさん,*,*
+cortar,7,verbos,きります,*,*
+regalar,7,verbos,あげます,*,*
+prestar,7,verbos,かします,*,*
+enseñar,7,verbos,おしえます,*,*
+enviar,7,verbos,おくります,*,*
+llamar por telefono,7,verbos,でんわをかけます,*,*
+recibir,7,verbos,もらいます,*,*
+tener prestado,7,verbos,かります,*,*
+aprender de,7,verbos,ならいます,*,*
+mano,7,sustantivo,て,*,*
+palillos,7,sustantivo,はし,*,*
+cuchara,7,sustantivo,すぷ-ん,スプ-ン,*
+cuchullo,7,sustantivo,ないふ,ナイフ,*
+tenedor,7,sustantivo,ふぉ-く,フォ-ク,*
+tijeras,7,sustantivo,はさみ,*,*
+perforador,7,sustantivo,ぱんち,パンチ,*
+agrapadora,7,sustantivo,ほっちきす,ホッチキス,*
+cinta adesiva,7,sustantivo,せろて-ぷ,セロテ-プ,*
+goma de borrar,7,sustantivo,けしごむ,けしゴム,*
+papel,7,sustantivo,かみ,*,*
+flor,7,sustantivo,はな,*,*
+remera,7,sustantivo,しゃつ,シャツ,*
+regalo,7,sustantivo,ぷれせんと,プレゼント,*
+paquete,7,sustantivo,にもつ,*,*
+dinero,7,sustantivo,おかね,*,*
+boleto,7,sustantivo,きっぷ,*,*
+tarjeta de año nuevo,7,sustantivo,ねんがしょう,*,*
+fax,7,sustantivo,ふぁくす,ファクス,*
+procesadora de papeles,7,sustantivo,わ-ぷろ,ワ-プロ,*
+pc personal,7,sustantivo,ぱそこん,パソコン,*
+navidad,7,sustantivo,くりすます,クリスマス,*
+viaje,7,sustantivo,りょこう,*,*
+souvenir de viaje,7,sustantivo,おみやけ,*,*
+Europa,7,sustantivo,よ-ろっぱ,ヨーロッパ,*
+ya,7,adverbios,もう,*,*
+aun,7,adverbios,まだ,*,*
+desde ahora,7,adverbios,これから,*,*
+disculpe voy a entrar,7,frases,ごめんください,*,*
+bienvenido,7,frases,いらっしゃい,*,*
+pase por favor,7,frases,どうぞおあがりください,*,*
+le apetese esto,7,frases,[...は]いかがですか,*,*
+lo recibo agradecidamente,7,frases,いただきます,*,*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+grande,8,adjetivos,おおきい,*,大きい
+pequeño,8,adjetivos,ちいさい,*,*
+bueno,8,adjetivos,いい/よい,*,*
+malo,8,adjetivos,わるい,*,*
+nuevo,8,adjetivos,あたらしい,*,*
+viejo,8,adjetivos,ふるい,*,*
+caluroso,8,adjetivos,あつい,*,*
+frio al tacto,8,adjetivos,つめたい,*,*
+frio al clima,8,adjetivos,さむい,*,*
+facil/amable,8,adjetivos,やさしい,*,*
+dificil,8,adjetivos,むずかしい,*,*
+alto/caro,8,adjetivos,たかい,*,*
+bajo,8,adjetivos,ひくい,*,*
+barato,8,adjetivos,やすい,*,*
+interesante,8,adjetivos,おもしろい,*,*
+delicioso,8,adjetivos,おいしい,*,*
+divertido,8,adjetivos,たのしい,*,*
+atareado,8,adjetivos,いそがしい,*,*
+guapo,8,adjetivos,はんさむ,ハンサム,*
+saludable,8,adjetivos,ばんき,*,*
+refinado,8,adjetivos,すてき,*,*
+tranquilo,8,adjetivos,しずか,*,*
+concurrido,8,adjetivos,にぎゃか,*,*
+amable,8,adjetivos,しんせつ,*,*
+conveniente,8,adjetivos,べんり,*,*
+con tiempo libre,8,adjetivos,ひま,*,*
+limpio/lindo,8,adjetivos,きれい(な),*,*
+famoso,8,adjetivos,ゆうめい(な),*,*
+blanco,8,colores,しろ(い),*,*
+negro,8,colores,くろ(い),*,*
+rojo,8,colores,あか(い),*,*
+azul,8,colores,あお(い),*,*
+amarillo,8,colores,きいろ(い),*,*
+marron,8,colores,ちゃいろ(い),*,*
+verde,8,colores,みどり,*,*
+violeta,8,colores,むらさき,*,*
+rosa,8,colores,ぴんく,ピンク,*
+gris,8,colores,ぐれ-,グレ-,*
+naranja,8,colores,おれんじ,オレンジ,*
+y,8,extras,そして,*,*
+pero,8,extras,...が...,*,*
+cómo es,8,pregunta,どう,*,*
+qué clase de,8,pregunta,どんな,*,*
+cual es,8,pregunta,どれ,*,*
+muy,8,adverbios,とても,*,*
+no tan,8,adverbios,あまり,*,*
+flor de cerezo,8,sustantivo,さくら,*,*
+montaña,8,sustantivo,やま,*,山
+ciudad,8,sustantivo,まち,*,*
+comida,8,sustantivo,たべもの,*,*
+auto,8,sustantivo,くるま,*,*
+residencia,8,sustantivo,りょう,*,*
+lugar,8,sustantivo,ところ,*,*
+estudio,8,sustantivo,べんきょう,*,*
+vida diaria,8,sustantivo,せんかつ,*,*
+trabajo,8,sustantivo,しごと,*,*
+usted como esta,8,frases,おげんきですか,*,*
+bueno dejame pensar,8,frases,そうですね,*,*
+le apetece una taza de,8,frases,[...]もう　いっぱい　いかがですか,*,*
+no estoy satisfecho,8,frases,いいえ　けんこです,*,*
+es hora de marcharnos,8,frases,そろそろ　しっねいします,*,*
+vuelvan a visitarnos,8,frases,また　いらっしゃって　ください,*,*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+entender,9,verbos,わかります,*,*
+tener objetos,9,verbos,あります,*,*
+tener ser vivo,9,verbos,います,*,*
+gustar,9,adjetivos,すき(な),*,*
+no gustar,9,adjetivos,きらい(な),*,*
+ser habil,9,adjetivos,じょうぞ(な),*,*
+ser malo,9,adjetivos,へた(な),*,*
+cocina,9,sustantivo,りょうり,*,*
+bebida,9,sustantivo,のみもの,*,*
+tiempo,9,sustantivo,じかん,*,*
+algo que hacer,9,sustantivo,ようじ,*,*
+compromiso,9,sustantivo,やくそく,*,*
+deporte,9,sustantivo,すぽ-つ,スポ-ツ,*
+danza,9,sustantivo,だんす,ダンス,*
+cancion,9,sustantivo,うた,*,*
+musica clasica,9,sustantivo,くらしっく,クラシック,*
+jazz,9,sustantivo,じゃず,ジャズ,*
+concierto,9,sustantivo,こんさ-と,コンサ-ト,*
+karaoke,9,sustantivo,からおけ,カラオケ,*
+teatro orquestral,9,sustantivo,かぶき,*,*
+pintura,9,sustantivo,え,*,*
+letra,9,sustantivo,じ,*,*
+letra china,9,sustantivo,かんじ,*,*
+hiragana,9,sustantivo,ひらがな,*,*
+katakana,9,sustantivo,かたかな,カタカナ,*
+romaji,9,sustantivo,ろ-まじ,ロ-マジ,*
+cambio,9,sustantivo,こまかい　おかね,*,*
+ticket,9,sustantivo,ちけっと,チケット,*
+su marido,9,sustantivo,ごしゅじん,*,*
+mi marido,9,sustantivo,しゅじん,*,*
+tu señora,9,sustantivo,おくさん,*,*
+mi esposa,9,sustantivo,かない,*,*
+niño,9,sustantivo,こども,*,子ども
+mucho,9,adverbios,よく,*,*
+mas o menos,9,adverbios,だいたい,*,*
+bastante,9,adverbios,たくさん,*,*
+un poco,9,adverbios,すこし,*,*
+nada,9,adverbios,ぜんぜん,*,*
+rapido,9,adverbios,はやく,*,*
+Por qué,9,pregunta,どうして,*,*
+porque,9,extras,...から,*,*
+es una lastima,9,frases,ざんえんです,*,*
+perdon,9,frases,すみません,*,*
+hola(telefono),9,frases,もしもし,*,*
+ah,9,frases,ああ,*,*
+queres acompañarnos,9,frases,いっしょに　いかがですか,*,*
+es un poco,9,frases,[..は]ちょっと...,*,*
+asi que no puedes acompañarnos,9,frases,だめですか,*,*
+por favor vuelva a invitarme la proxima,9,frases,また　こんど　おねがいします,*,*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+estar/haber objetos,10,verbos,あります,*,*
+estar/haber ser vivo,10,verbos,います,*,*
+hombre,10,sustantivo,おとこのひと,*,男の人
+mujer,10,sustantivo,おんなのひと,*,女の人
+pequeño niño,10,sustantivo,おとこのこ,*,男の子
+pequeña niña,10,sustantivo,おんなのこ,*,女の子
+perro,10,sustantivo,いぬ,*,*
+gato,10,sustantivo,ねこ,*,*
+arbol,10,sustantivo,き,*,木
+mesa,10,sustantivo,て-べる,テ-ベル,*
+cama,10,sustantivo,べっど,ベッド,*
+estante,10,sustantivo,たな,*,*
+puerta,10,sustantivo,どあ,ドア-,*
+ventana,10,sustantivo,まど,*,*
+objeto,10,sustantivo,もの,*,*
+pelicula de foto,10,sustantivo,ふぃるむ,フィルム,*
+bateria,10,sustantivo,でんち,*,*
+buzón,10,sustantivo,ぼすと,ボスト,*
+edificio,10,sustantivo,びる,ビル,*
+parque,10,sustantivo,こうえん,*,*
+cafeteria,10,sustantivo,きっさてん,*,*
+libreria,10,sustantivo,ほんや,*,*
+prefectura,10,sustantivo,けん,*,*
+caja,10,sustantivo,はこ,*,*
+interruptor,10,sustantivo,すいっち,スイッチ,*
+refrigerador,10,sustantivo,れいぞうこ,*,*
+arriba,10,posiciones,うえ,*,上
+abajo,10,posiciones,した,*,下
+adelante,10,posiciones,まえ,*,前
+atras,10,posiciones,うしろ,*,後しろ
+izquierda,10,posiciones,ひだり,*,左
+derecha,10,posiciones,みぎ,*,右
+adentro,10,posiciones,なか,*,中
+afuera,10,posiciones,そと,*,外
+al lado,10,posiciones,となり,*,*
+cerca,10,posiciones,ちかく,*,*
+entre,10,posiciones,あいだ,*,*
+etcetera,10,adverbios,など,*,*
+el mas,10,adverbios,いちばん,*,*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+tener hijos,11,verbos,こどもがいます,*,*
+permanecer en un lugar,11,verbos,どこかがいます,*,*
+tardar,11,verbos,かかります,*,*
+descansar,11,verbos,やすみます,*,*
+manzana,11,sustantivo,りんご,*,*
+naranja,11,sustantivo,みかん,*,*
+sandwich,11,sustantivo,さんどいっち,サンドイッチ,*
+curry,11,sustantivo,かれ-,カレ-,*
+helado,11,sustantivo,あいすくり-む,アイスクリ-ム,*
+sello postal,11,sustantivo,きって,*,*
+tarjeta postal,11,sustantivo,はがき,*,*
+sobres,11,sustantivo,ふうとう,*,*
+correo urgente,11,sustantivo,そくたつ,*,*
+correo certificado,11,sustantivo,かきとめ,*,*
+via aerea,11,sustantivo,こうくうびん,エアメ-ル,*
+via marítima,11,sustantivo,ふなびん,*,*
+extranjero,11,sustantivo,がいこく,*,*
+en total,11,adverbios,ぜんぶん,*,*
+todos,11,adverbios,みんな,*,*
+solamente,11,adverbios,だけ,*,*
+aproximadamente,11,adverbios,ぐらい,*,*
+bienvenidos,11,frases,いらっしゃいます,*,*
+hace buen clima no,11,frases,いいてんきですね,*,*
+va a salir,11,frases,おでかけですか,*,*
+estoy saliendo solo a ,11,frases,ちょっと。。。まで,*,*
+que vaya y vuelva,11,frases,行って　いらっしゃい,*,*
+salgo y vuelvo,11,frases,行って　まいります,*,*
+1 cosa,11,contador general,ひとつ,*,一つ
+2 cosas,11,contador general,ふたつ,*,二つ
+3 cosas,11,contador general,みっつ,*,三つ
+4 cosas,11,contador general,よっつ,*,四つ
+5 cosas,11,contador general,いっつ,*,五つ
+6 cosas,11,contador general,むっつ,*,六つ
+7 cosas,11,contador general,ななつ,*,七つ
+8 cosas,11,contador general,やっつ,*,八つ
+9 cosas,11,contador general,ここのつ,*,九つ
+10 cosas,11,contador general,とお,*,十つ
+n cosas,11,contador general,Nつ,*,*
+que cosas,11,contador general,なんつ,*,何つ
+1 persona,11,contador persona,ひとり,*,一人
+2 personas,11,contador persona,ふたり,*,二人
+4 personas,11,contador persona,よにん,*,四人
+7 personas,11,contador persona,しちにん,*,七人
+n personas,11,contador persona,Nにん,*,N人
+1 objeto pequeño,11,contador,いっこ,*,一こ
+6 objetos pequeño,11,contador,ろっこ,*,六こ
+8 objetos pequeño,11,contador,はっこ,*,八こ
+10 objetos pequeño,11,contador,じゅっこ,*,十こ
+n objetos pequeños,11,contador,Nこ,*,*
+1 par de objetos pies,11,contador,いっそく,*,一足
+3 pares de objetos pies,11,contador,さんぞく,*,三足
+8 pares de objetos pies,11,contador,はっそく,*,八足
+10 pares de objetos pies,11,contador,じゅっそく,*,十足
+cuales pares de objetos pies,11,contador,なんぞく,*,何足
+n pares de objetos pies,11,contador,Nそく,*,N足
+n maquinarias,11,contador,Nだい,*,*
+n objetos planos,11,contador,Nまい,*,*
+n orden,11,contador,Nばん,*,*
+1 años,11,contador,いっさい,*,一さい
+8 años,11,contador,はっさい,*,八さい
+10 años,11,contador,じゅっさい,*,十さい
+20 años,11,contador,はたち,*,二十さい
+n años,11,contador,Nさい,*,*
+1 encuadernado,11,contador,いっさつ,*,一さつ
+8 encuadernados,11,contador,はっさつ,*,八さつ
+10 encuadernados,11,contador,じゅっさつ,*,十さつ
+n encuadernados,11,contador,Nさつ,*,*
+1 vestimenta,11,contador,いっちゃく,*,一ちゃく
+8 vestimentas,11,contador,はっちゃく,*,八ちゃく
+10 vestimentas,11,contador,じゅっちゃく,*,十ちゃく
+n vestimentas,11,contador,Nちゃく,*,*
+1 piso,11,contador,いっかい,*,一かい
+3 pisos,11,contador,さんがい,*,三がい
+6 pisos,11,contador,ろっかい,*,六かい
+8 pisos,11,contador,はっかい,*,八かい
+10 pisos,11,contador,じゅっかい,*,十かい
+cual piso,11,contador,なんがい,*,何がい
+n pisos,11,contador,Nかい,*,*
+1 vivienda,11,contador,いっけん,*,一けん
+3 viviendas,11,contador,さんげん,*,三げん
+6 viviendas,11,contador,ろっけん,*,六けん
+8 viviendas,11,contador,はっけん,*,八けん
+10 viviendas,11,contador,じゅっけん,*,十けん
+cual vivienda,11,contador,なんげん,*,何げん
+n viviendas,11,contador,Nけん,*,*
+1 animal chico,11,contador,いっぴき,*,一ぴき
+3 animales chicos,11,contador,さんびき,*,三びき
+6 animales chicos,11,contador,ろっぴき,*,六ぴき
+8 animales chicos,11,contador,はっぴき,*,八ぴき
+10 animales chicos,11,contador,じゅっぴき,*,十ぴき
+cual animal chico,11,contador,なんびき,*,何びき
+n animales chicos,11,contador,Nひき,*,*
+1 vaso,11,contador,いっぱい,*,一ぱい
+3 vasos,11,contador,さんばい,*,三ばい
+6 vasos,11,contador,ろっぱい,*,六ぱい
+8 vasos,11,contador,はっぱい,*,八ぱい
+10 vasos,11,contador,じゅっぱい,*,十ぱい
+cual vaso,11,contador,なんばい,*,何ばい
+n vasos,11,contador,Nはい,*,*
+1 objeto alargado,11,contador,いっぽん,*,一ぽん
+3 objetos alargados,11,contador,さんぼん,*,三ぼん
+6 objetos alargados,11,contador,ろっぽん,*,六ぽん
+8 objetos alargados,11,contador,はっぽん,*,八ぽん
+10 objetos alargados,11,contador,じゅっぽん,*,十ぽん
+cual objeto alargado,11,contador,なんぼん,*,何ぼん
+n objetos alargados,11,contador,Nほん,*,*
+4 horas,11,contador,よじかん,*,四じかん
+7 horas,11,contador,しちじかん,*,七じかん
+9 horas,11,contador,くじかん,*,九じかん
+n horas,11,contador,Nじかん,*,*
+1 minuto,11,contador,いちふん,*,一分
+2 minutos,11,contador,にぷん,*,二分
+3 minutos,11,contador,さんぷん,*,三分
+4 minutos,11,contador,よんぷん,*,四分
+5 minutos,11,contador,ごふん,*,五分
+6 minutos,11,contador,ろくぷん,*,六分
+7 minutos,11,contador,ななふん,*,七分
+8 minutos,11,contador,はちぷん,*,八分
+9 minutos,11,contador,きゅうふん,*,九分
+10 minutos,11,contador,じゅぷん,*,十分
+cuantos minutos,11,contador,なんぷん,*,何分
+n minutos,11,contador,Ｎふん,*,N分
+1 semana,11,contador,うっしゅうかん,*,一しゅうかん
+8 semanas,11,contador,はっしゅうかん,*,八しゅうかん
+10 semanas,11,contador,じゅっしゅうかん,*,十しゅうかん
+n semanas,11,contador,Nしゅかん,*,*
+1 mes,11,contador,いっかげつ,*,一か月
+6 meses,11,contador,ろっかげつ,*,六か月
+8 meses,11,contador,はっかげつ,*,八か月
+10 meses,11,contador,じゅっかげつ,*,十か月
+cual mes,11,contador,なんがげつ,*,何か月
+n meses,11,contador,Nかげつ,*,Nか月
+1 vez,11,contador,いっかい,*,一かい
+6 veces,11,contador,ろっかい,*,六かい
+8 veces,11,contador,はっかい,*,八かい
+n veces,11,contador,Nかい,*,*
+4 años,11,contador,よねん,*,四年
+n años,11,contador,Nねん,*,N年
+dia 1,11,contador,ついたち,*,一日
+dia 2,11,fecha calendario,ふつか,*,二日
+dia 3,11,fecha calendario,みっか,*,三日
+dia 4,11,fecha calendario,よっか,*,四日
+dia 5,11,fecha calendario,いつか,*,五日
+dia 6,11,fecha calendario,むいか,*,六日
+dia 7,11,fecha calendario,なのか,*,七日
+dia 8,11,fecha calendario,ようか,*,八日
+dia 9,11,fecha calendario,ここのか,*,九日
+dia 10,11,fecha calendario,とうか,*,十日
+dia 14,11,fecha calendario,じゅうよっか,*,十四日
+dia 19,11,fecha calendario,じゅうくにち,*,十九日
+dia 20,11,fecha calendario,はつか,*,二十日
+dia 24,11,fecha calendario,にじゅうよっか,*,二十四日
+dia 29,11,fecha calendario,にじゅうくにち,*,二十九日
+dia n,11,fecha calendario,Nにち,*,N日
+Enero,11,fecha calendario,いちがつ,*,一月
+Febrero,11,fecha calendario,にがつ,*,ニ月
+Marzo,11,fecha calendario,さんがつ,*,三月
+Abril,11,fecha calendario,しがつ,*,四月
+Mayo,11,fecha calendario,ごがつ,*,五月
+Junio,11,fecha calendario,ろくがつ,*,六月
+Julio,11,fecha calendario,しちがつ,*,七月
+Agosto,11,fecha calendario,はちがつ,*,八月
+Septiembre,11,fecha calendario,くがつ,*,九月
+Octubre,11,fecha calendario,じゅうがつ,*,十月
+Noviembre,11,fecha calendario,じゅういちがつ,*,十一月
+Diciembre,11,fecha calendario,じゅうにがつ,*,十ニ月
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+facil,12,adjetivos,かんたん（な）,*,*
+cercano,12,adjetivos,ちかい,*,*
+lejos,12,adjetivos,おとい,*,*
+rapido,12,adjetivos,はやい,*,*
+lento,12,adjetivos,おそい,*,*
+mucho,12,adjetivos,おおい,*,*
+poco,12,adjetivos,すくない,*,*
+templado,12,adjetivos,あたたかい,*,*
+tibio,12,adjetivos,あたたかい,*,*
+fresco de temperatura,12,adjetivos,すずしい,*,*
+pesado,12,adjetivos,おもい,*,*
+ligero,12,adjetivos,かるい,*,*
+dulce,12,sabores,,あまい*,*
+picante,12,sabores,からい,*,*
+amargo,12,sabores,にがい,*,*
+acido,12,sabores,すっぱい,*,*
+salado,12,sabores,しょっぱい,*,*
+sabor fuerte,12,sabores,こい,*,*
+sabor suave,12,sabores,うすい,*,*
+mucho mas,12,adverbios,ずっと,*,*
+por primera vez,12,adverbios,はじめて,*,*
+estacion,12,estaciones del año,きせつ,*,*
+primavera,12,estaciones del año,はる,*,*
+verano,12,estaciones del año,なつ,*,*
+otoño,12,estaciones del año,あき,*,*
+invierno,12,estaciones del año,ふゆ,*,*
+clima,12,climas,てんき,*,*
+despejado,12,climas,はれ,*,*
+nublado,12,climas,くもり,*,*
+lluvia,12,climas,あめ,*,*
+nieve,12,climas,ゆき,*,*
+hotel,12,sustantivo,ほてる,ホテル,*
+aeropuerto,12,sustantivo,くうこう,*,*
+oceano,12,sustantivo,うみ,*,*
+mundo,12,sustantivo,せかい,*,*
+festival,12,sustantivo,まつり,*,*
+examen,12,sustantivo,しけん,*,*
+sukiyaki,12,extras,すきやき,*,*
+sahimi,12,extras,さしみ,*,*
+sushi,12,extras,すし,*,*
+tempura,12,extras,てんぷら,*,*
+aarreglo floral,12,extras,いけはな,*,*
+hojas coloradas de otoño,12,extras,もみじ,*,*
+cual de estos dos,12,pregunta,どちら,*,*
+ambos,12,extras,どちらも,*,*
+he llegado,12,frases,ただいま,*,*
+bienvenido devuelta,12,frases,おかえりなさい,*,*
+es admirable,12,frases,すごいですね,*,*
+pero,12,frases,でも...,*,*
+estoy cansado,12,frases,つかれました,*,*
+uno,12,kanji,いち,*,一
+dos,12,kanji,に,*,ニ
+tres,12,kanji,さん,*,三
+cuatro,12,kanji,よん,*,四
+cinco,12,kanji,ご,*,五
+seis,12,kanji,ろく,*,六
+siete,12,kanji,なな,*,七
+ocho,12,kanji,はち,*,八
+nueve,12,kanji,きゅう,*,九
+diez,12,kanji,じゅう,*,十
+una cosa,12,kanji,ひとつ,*,一つ
+Enero,12,kanji,いちがつ,*,一月
+primer dia,12,kanji,ついたち,*,一日
+dos personas,12,kanji,ふたり,*,ニ人
+Febrero,12,kanji,にがつ,*,ニ月
+tercer dia,12,kanji,みっか,*,三日
+triangulo,12,kanji,さんかく,*,三かく
+tres cosas,12,kanji,みっつ,*,三つ
+cuarto dia,12,kanji,よっか,*,四日
+Abril,12,kanji,しがつ,*,四月
+cuatro personas,12,kanji,よにん,*,四人
+cinco años,12,kanji,ごねん,*,五年
+quinto dia,12,kanji,いつか,*,五日
+seis cosas,12,kanji,むっつ,*,六つ
+Junio,12,kanji,ろくがつ,*,六月
+sexto dia,12,kanji,むいか,*,六日
+seiscientos,12,kanji,ろっぴゃく,*,六百
+septimo dia,12,kanji,なのか,*,七日
+Julio,12,kanji,しちがつ,*,七月
+7 personas,12,kanji,しちにん,*,七人
+8 cosas,12,kanji,やっつ,*,八つ
+octavo dia,12,kanji,ようか,*,八日
+ochocientos,12,kanji,はっぴゃく,*,八百
+noveno dia,12,kanji,ここのか,*,九日
+Septiembre,12,kanji,くがつ,*,九月
+diez cosas,12,kanji,とお,*,十つ
+Octubre,12,kanji,じゅうがつ,*,十月
+decimo dia,12,kanji,とおか,*,十日
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+jugar,13,verbos,あそびます,*,*
+nadar,13,verbos,およぎます,*,*
+recibir a alguien,13,verbos,むかえます,*,*
+enviar,13,verbos,だします,*,*
+entrar,13,verbos,はいります,*,*
+salir,13,verbos,でます,*,*
+cansarse,13,verbos,つかれます,*,*
+casarse,13,verbos,けっこんしまし,*,*
+comer formal,13,verbos,しょくじします,*,*
+pasear,13,verbos,さんぽします,*,*
+terrible,13,adjetivos,たいへん(な),*,*
+querer,13,adjetivos,ほしい,*,*
+solitario,13,adjetivos,さびしい,*,*
+amplio,13,adjetivos,ひろい,*,*
+estrecho,13,adjetivos,せまい,*,*
+alrrededor,13,adverbios,ごる,*,*
+por separado,13,adverbios,ぺつぺつに,*,*
+oficina municipal,13,sustantivo,しゃくしょ,*,*
+piscina,13,sustantivo,ぷ-る,プ-ル,*
+rio,13,sustantivo,かわ,*,川
+economia,13,sustantivo,けいざい,*,*
+bellas artes,13,sustantivo,びじゅつ,*,*
+pesca,13,sustantivo,つり,*,*
+fin de semana,13,sustantivo,しゅうまつ,*,*
+sky,13,sustantivo,すき-,スキ-,*
+reunion,13,sustantivo,かいぎ,*,*
+registro,13,sustantivo,とうろく,*,*
+combo de comida,13,sustantivo,ていしょく,*,*
+arroz con carne japones,13,sustantivo,ぎゅうどん,*,*
+algo,13,pregunta y articulo,なにか(+),*,何か(+)
+nada,13,pregunta y articulo,なにも(-),*,何も(-)
+algun lugar,13,pregunta y articulo,どこか(+),*,*
+ningun lugar,13,pregunta y articulo,どこも(-),*,*
+algun momento,13,pregunta y articulo,いつか(+),*,*
+ningun momento,13,pregunta y articulo,いつも(-),*,*
+alguna persona,13,pregunta y articulo,だれか(+),*,*
+ninguna persona,13,pregunta y articulo,だれも(-),*,*
+tengo hambre,13,frases,おなかがあきました,*,*
+estoy lleno,13,frases,おなかがいっぱいです,*,*
+tengo sed,13,frases,のどがかわきました,*,*
+estoy de acuerdo,13,frases,そうですね,*,*
+vamos a hacerlo,13,frases,そうしましょう,*,*
+montaña,13,kanji,やま/さん,*,山
+montaña,13,kanji,たま,*,山
+monte fuji,13,kanji,ふじさん,*,ふじ山
+rio,13,kanji,かわ/せん,*,川
+rio,13,kanji,かわ,*,川
+rio nilo,13,kanji,ないるがわ,ナイルガワ,ナイル川
+rio de la plata,13,kanji,ら。ぷらたがわ,ラ。プラタガワ,ラ。プラタガワ川
+campo de cultivo,13,kanji,た/だ/でん,*,田
+campo de cultivo,13,kanji,たんぼ,*,田んぼ
+campo de petrolo,13,kanji,ゆでん,*,ゆ田
+campo de arroz,13,kanji,すいでん,*,水田
+Sr Yamada,13,kanji,やまださん,*,山田さん
+sol o dia,13,kanji,ひ/び/にち/に/じつ,*,日
+dia o sol,13,kanji,ひ,*,日
+dia del niño,13,kanji,こどものひ,*,子の日
+japon,13,kanji,にほん,*,日本
+Domingo,13,kanji,にちようび,*,日曜日
+feriado,13,kanji,きゅうしつ,*,きゅう日
+luna o mes,13,kanji,つき/けつ/がつ,*,月
+luna,13,kanji,つき,*,月
+Enero,13,kanji,いちがつ,*,一月
+Lunes,13,kanji,げつようび,*,月曜日
+fuego,13,kanji,ひ/か,*,火
+fuego,13,kanji,ひ,*,火
+fuegos artificiales,13,kanji,はなび,*,はな火
+Martes,13,kanji,かようび,*,火曜日
+Volcan,13,kanji,かざん,*,火山
+incendio,13,kanji,かし,*,火し
+agua,13,kanji,みす/すい,*,水
+agua,13,kanji,みす,*,水
+campo de arroz,13,kanji,すいでん,*,水田
+Miércoles,13,kanji,すいようび,*,水曜日
+azul claro,13,kanji,すいろ,*,水いろ
+madera,13,kanji,き/もく,*,木
+arbol,13,kanji,き,*,木
+Jueves,13,kanji,もくようび,*,木曜日
+arbol grande,13,kanji,だいぼく,*,だい木
+oro o dinero,13,kanji,きん/かね,*,金
+dinero,13,kanji,おかね,*,お金
+viernes,13,kanji,きんようび,*,金曜日
+dorado,13,kanji,きんいろ,*,金いろ
+oro,13,kanji,きん,*,金
+Sr Kaneda,13,kanji,かねださん,*,金田さん
+tierra,13,kanji,つち/ど/と,*,土
+suelo,13,kanji,つち,*,土
+Sabado,13,kanji,どようび,*,土曜日
+terremoto,13,kanji,どち,*,土ち
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+tener,14,verbos,もちます,*,*
+agarrar,14,verbos,とります,*,*
+ayudar,14,verbos,てつだいます,*,*
+llamar sin telefono,14,verbos,よびます,*,*
+hablar,14,verbos,はなします,*,*
+mostrar,14,verbos,みせます,*,*
+fotocopiar,14,verbos,こぴ-します,コピ-します,*
+prender o encender,14,verbos,つけます,*,*
+apagar o borrar,14,verbos,けします,*,*
+abrir,14,verbos,あけます,*,*
+cerrar,14,verbos,しめます,*,*
+apresurarse,14,verbos,いそぎます,*,*
+esperar,14,verbos,まちます,*,*
+detenerse o parar,14,verbos,とめます,*,*
+doblar,14,verbos,まぎります,*,*
+enseñar o decir,14,verbos,おしえます,*,*
+comenzar,14,verbos,はじめます,*,*
+gotear o llover,14,verbos,ふります,*,*
+aire acondicionado,14,sustantivo,えあこん,エアコン,*
+nombre,14,sustantivo,なまえ,*,名前
+izquierda,14,sustantivo,ひだり,*,左
+derecha,14,sustantivo,みぎ,*,右
+sal,14,sustantivo,しお,*,*
+azucar,14,sustantivo,さとう,*,*
+pasaporte,14,sustantivo,ぱすぽと,パスポト,*
+direccion,14,sustantivo,じゅうしょ,*,*
+mapa,14,sustantivo,ちず,*,*
+forma de leer,14,sustantivo,よみかた,*,*
+vuelto,14,sustantivo,おつり,*,*
+lentamente,14,adverbios,ゆっくり,*,*
+despues,14,adverbios,あとで,*,*
+derecho,14,adverbios,まっすぐ,*,*
+inmediatamente,14,adverbios,すぐ,*,*
+denuevo,14,adverbios,また,*,*
+mas,14,adverbios,もう,*,*
+esta bien,14,extras,いいですよ,*,*
+doble en el semaforo a la derecha,14,extras,しんごう　を　右　へ　まぎって　ください,*,*
+cobre de aqui por favor,14,extras,これ　で　おねがいします,*,*
+bueno,14,extras,さあ,*,*
+oh,14,extras,あれ?,*,*
+cien,14,kanji,ひゃく,*,百
+trescientos,14,kanji,さんびゃく,*,三百
+seiscientos,14,kanji,ろっぴゃく,*,六百
+verduleria,14,kanji,やおや,*,八百や
+mil,14,kanji,せん,*,千
+tres mil,14,kanji,さんぜん,*,三千
+prefectura de chiba,14,kanji,ちばげん,*,千ばげん
+diez mil,14,kanji,いちまん,*,一万
+treinta mil,14,kanji,さんまん,*,三万
+todos los paises,14,kanji,ばんこく,*,万国
+N Yenes,14,kanji,Nえん,*,N円
+circular o redondo,14,kanji,まるい,*,円い
+cuarenta mil Yenes,14,kanji,よんまんえん,*,四万円
+año,14,kanji,とし,*,年
+este año,14,kanji,ことし,*,今年
+cuatro años,14,kanji,よんねん,*,四年
+pension,14,kanji,ねんきん,*,年金
+arriba,14,kanji,うえ,*,上
+subir,14,kanji,あがります,*,上がります
+subir,14,kanji,のぼります,*,上ります
+campera o abrigo,14,kanji,うわぎ,*,上ぎ
+watersky,14,kanji,すいじょうすき-,すいじょうスキ-,水上スキ-
+habilidoso,14,kanji,じょうず,*,上手
+abajo,14,kanji,した,*,下
+bajar,14,kanji,さがる,*,下がる
+arriba y abajo,14,kanji,じょうげ,*,上下
+no habilidoso,14,kanji,へた,*,下手
+subterraneo,14,kanji,ちかてつ,*,ち下てつ
+dentro,14,kanji,なか,*,中
+durante todo el dia,14,kanji,いちにちじゅう,*,一日中
+escuela media,14,kanji,ちゅうがく,*,中学
+centro,14,kanji,ちゅうしん,*,中しん
+mitad,14,kanji,はん,*,半
+seis y media,14,kanji,ろくじはん,*,六じ半
+medio año,14,kanji,はんとし,*,半年
+medio dia,14,kanji,はんにち,*,半日
+la mitad,14,kanji,はんぶん,*,半分
+minuto,14,kanji,ぷん,*,分
+comprender o entender,14,kanji,わかります,*,分かります
+dividir o partir,14,kanji,わけます,*,分けます
+5 minutos,14,kanji,こふん,*,5分
+10 minutos,14,kanji,じゅうぶん,*,10分
+suficiente,14,kanji,じゅうぶん,*,十分
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+pararse,15,verbos,たちます（に）,*,*
+sentarse,15,verbos,すわります（に）,*,*
+utilizar,15,verbos,つかいます（を）,*,*
+apoyar,15,verbos,おきます（に）,*,*
+producir,15,verbos,つくります（を）,*,*
+vender,15,verbos,うります（を）,*,*
+conocer futuro,15,verbos,しります（を）,*,*
+residir futuro,15,verbos,すみます（に）,*,*
+investigar,15,verbos,けんきゅうします,*,*
+recordar,15,verbos,おもいだします,*,*
+estar conociendo,15,verbos,しって　います,*,*
+residir presente,15,verbos,Lugar に　すんで　います,*,*
+tablon de horarios,15,sustantivo,じこくびょう,*,*
+campo de estudio,15,sustantivo,せんもん,*,*
+ropa,15,sustantivo,ふく,*,*
+odontólogo,15,sustantivo,はいしゃ,*,*
+documentos,15,sustantivo,しりょう,*,*
+productos,15,sustantivo,せいひん,*,*
+peluquería,15,sustantivo,とくや,*,*
+catálogo,15,sustantivo,かたろぐ,カタログ,*
+software,15,sustantivo,そふと,ソフト,*
+reventa,15,sustantivo,ぷれいがいど,プレイガイド,*
+soltero,15,sustantivo,どくしん,*,*
+su familia,15,sustantivo,ごかぞく,*,*
+escuela secundaria alta,15,sustantivo,こうとうがっこう,*,こうとう学校
+especialmente,15,adverbios,とくに,*,*
+siempre,15,frecuencia,いつも（+）,*,*
+generalmente,15,frecuencia,たいてい,*,*
+a veces,15,frecuencia,ときどき,*,*
+nunca,15,frecuencia,いつも（-）,*,*
+persona,15,kanji,ひと,*,人
+una persona,15,kanji,ひとり,*,一人
+tres personas,15,kanji,さんにん,*,三人
+persona japonesa,15,kanji,にほんじん,*,日本人
+niño,15,kanji,こども,*,子ども
+niña,15,kanji,おんなのこ,*,女の子
+chica,15,kanji,じょし,*,女子
+padres e hijos,15,kanji,おやこ,*,おや子
+mujer,15,kanji,おんなのひと,*,女の人
+femenino,15,kanji,じょせい,*,女せい
+hombre,15,kanji,おとこのひと,*,男の人
+niño,15,kanji,おとこのこ,*,男の子
+masculino,15,kanji,だんせい,*,男せい
+chico,15,kanji,だんし,*,男子
+hombres y mujeres,15,kanji,だんじょ,*,男女
+hijo mayor varon,15,kanji,ちょうなん,*,ちょう男
+ojos,15,kanji,め,*,目
+primer dia ordenado,15,kanji,いちにちめ,*,一日目
+gotas para ojos,15,kanji,めぐすり,*,目ぐすり
+objetivo,15,kanji,もくてき,*,目てき
+boca,15,kanji,くち,*,口
+un bocado,15,kanji,ひとくち,*,一口
+entrada,15,kanji,いりぐち,*,いり口
+poblacion,15,kanji,じんこう,*,人口
+salida de emergencia,15,kanji,ひじょうぐち,*,ひじょう口
+oreja,15,kanji,みみ,*,耳
+otorrinolaringolo,15,kanji,じびか,*,耳びか
+mano,15,kanji,て,*,手
+baño,15,kanji,おてあらい,*,お手あらい
+carta,15,kanji,てがみ,*,手がみ
+habilidoso,15,kanji,じょうす,*,上手
+no habilidoso,15,kanji,へた,*,下手
+cirujía,15,kanji,じゅじゅ,*,手じゅ
+pie o pierna,15,kanji,あし,*,足
+un par,15,kanji,いっそく,*,一足
+tres pares,15,kanji,さんぞく,*,三足
+alcanzar,15,kanji,たりる,*,足りる
+excursion,15,kanji,えんそく,*,えん足
+fuerza,15,kanji,ちから,*,力
+fuerza del agua,15,kanji,すいりょく,*,水力
+aptitud,15,kanji,のうりょく,*,のう力
+fuerza fisica,15,kanji,たいりょく,*,体力
+luchador de sumo,15,kanji,りきし,*,力し
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+subir a transporte,16,verbos,のります（に）,*,*
+bajar de transporte,16,verbos,おります（を）,*,*
+hacer transbordo,16,verbos,のりかえます（に）,*,*
+ducharse,16,verbos,しゃわ-　を　あびます,シャワ-　を　あびます,*
+meter,16,verbos,いれます,*,*
+sacar,16,verbos,だします,*,*
+ingresar,16,verbos,（に）はいります,*,*
+graduarse,16,verbos,（を）でます,*,*
+dejar algo,16,verbos,（を）やめます,*,*
+apretar,16,verbos,おします,*,*
+joven,16,adjetivos,わかい,*,*
+largo,16,adjetivos,ながい,*,*
+corto,16,adjetivos,みじかい,*,*
+luminoso,16,adjetivos,おかるい,*,*
+oscuro,16,adjetivos,くらい,*,*
+persona alta,16,adjetivos,せ　が　たかい,*,*
+persona bajar,16,adjetivos,せ　が　ひくい,*,*
+inteligente,16,adjetivos,あたま　が　いい,*,*
+servicio,16,sustantivo,さ-びす,サ-ビス,*
+jogging,16,sustantivo,しょぎんぐ,ショギング,*
+ducha,16,sustantivo,しゃわ-,シャワ-,*
+templo budista,16,sustantivo,おてら,*,*
+estudiante de intercambio,16,sustantivo,りゅうがくせい,*,りゅう学生
+templo sintoista,16,sustantivo,じんじゃ,*,*
+tarjeta de debito,16,sustantivo,きゃっしゅか-ど,キャッシュカ-ド,*
+tarjeta de credito,16,sustantivo,くれじっとか-ど,クレジットカ-ド,*
+pin de banco,16,sustantivo,あんしょうばんごう,*,*
+cantidad de dinerop,16,sustantivo,きんがく,*,金がく
+confirmacion,16,sustantivo,かくにん,*,*
+boton,16,sustantivo,ぼたん,ボタン,*
+siguiente,16,adverbios,つぎに,*,*
+primero,16,adverbios,まず,*,*
+aun tengo mucho camino por recorrer,16,frases,いいえ　まだまだです,*,*
+es una extraccion de dinero?,16,frases,おひきだしですか,*,*
+cuerpo,16,partes del cuerpo,からだ,*,*
+cabeza,16,partes del cuerpo,あたま,*,*
+pelo,16,partes del cuerpo,かみ,*,*
+cara,16,partes del cuerpo,かお,*,*
+ojos,16,partes del cuerpo,め,*,目
+nariz,16,partes del cuerpo,はな,*,*
+orejas,16,partes del cuerpo,みみ,*,耳
+boca,16,partes del cuerpo,くち,*,口
+dientes,16,partes del cuerpo,は,*,*
+hombros,16,partes del cuerpo,かた,*,*
+espalda,16,partes del cuerpo,せなか,*,せ中
+brazos,16,partes del cuerpo,うで,*,*
+mano,16,partes del cuerpo,て,*,手
+dedo,16,partes del cuerpo,ゆび,*,*
+codo,16,partes del cuerpo,ひじ,*,*
+cintura,16,partes del cuerpo,こし,*,*
+pecho,16,partes del cuerpo,むね,*,*
+cuello,16,partes del cuerpo,くび,*,*
+panza,16,partes del cuerpo,おなか,*,お中
+pie o pierna,16,partes del cuerpo,あし,*,足
+rodilla,16,partes del cuerpo,ひぎ,*,*
+garganta,16,partes del cuerpo,のど,*,*
+cejas,16,partes del cuerpo,まゆ,*,*
+papa,16,kanji,ちち,*,父
+padre,16,kanji,おとうさん,*,お父さん
+padre,16,kanji,ちち,*,父おや
+mama,16,kanji,はは,*,母
+madre,16,kanji,おかあさん,*,お母さん
+madre y padre,16,kanji,ふぼ,*,父母
+lengua materna,16,kanji,ぼご,*,母語
+madre patria,16,kanji,ぼこく,*,母国
+anterior,16,kanji,さき,*,先
+el dia anterior,16,kanji,せんじつ,*,先日
+semana pasada,16,kanji,せんしゅう,*,先しゅう
+mes anterior,16,kanji,せんげつ,*,先月
+profesor,16,kanji,せんせい,*,先生
+superior,16,kanji,せんぱい,*,先ぱい
+vida,16,kanji,せい,*,生
+vivir,16,kanji,いきる,*,生きる
+nacer,16,kanji,うまれ,*,生まれ
+crudo,16,kanji,なま,*,生
+crecer,16,kanji,はえる,*,生える
+huevo crudo,16,kanji,なまたまご,*,生たまご
+basura cruda,16,kanji,なまごみ,なまゴミ,生ゴミ
+vida humana,16,kanji,じんせい,*,人生
+vida y obra,16,kanji,いっしょう,*,一生
+vida cotidiana,16,kanji,せいかつ,*,生かつ
+aprender,16,kanji,まなびます,*,学びます
+escuela,16,kanji,がっこう,*,学校
+universidad,16,kanji,だいがく,*,大学
+estudiante,16,kanji,がくせい,*,学生
+escuela primaria,16,kanji,しょうがっこう,*,しょう学校
+director de escuela,16,kanji,こうちょう,*,校ちょう
+amigo,16,kanji,ともだち,*,友だち
+amigo interno,16,kanji,しんゆう,*,しん友
+persona amiga,16,kanji,ゆうじん,*,友人
+libro,16,kanji,ほん,*,本
+japon,16,kanji,にほん,*,日本
+tres objetos,16,kanji,さんぼん,*,三本
+libreria,16,kanji,ほんや,*,本や
+Yamamoto,16,kanji,やまもとさん,*,山本さん
+todos,16,kanji,まい,*,毎
+todos los dias,16,kanji,まいにち,*,毎日
+todos los meses,16,kanji,まいつき,*,毎月
+todas las noches,16,kanji,まいばん,*,毎ばん
+que,16,kanji,なん/なに,*,何
+que color,16,kanji,なにいろ,*,何いろ
+cuantas personas,16,kanji,なんにん,*,何人
+que mes,16,kanji,なんがつ,*,何月
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+memorizar,17,verbos,おぼえます,*,*
+olvidar,17,verbos,わすれます,*,*
+prender,17,verbos,なくします,*,*
+entregar,17,verbos,だします,*,*
+pagar,17,verbos,はらいます,*,*
+devolver,17,verbos,かえします,*,*
+salir,17,verbos,でかけます,*,*
+sacarse,17,verbos,ねぎます,*,*
+llevar,17,verbos,もっていきます,*,もって行きます
+traer,17,verbos,もってきます,*,*
+preocuparse,17,verbos,しんぱいします,*,*
+hacer horas extras,17,verbos,さんひょうします,*,*
+hacer viaje de negocios,17,verbos,しゅっちょうします,*,*
+tomar una medicina,17,verbos,くすり　を　のみます,*,*
+tomar un baño,17,verbos,おふろ　に　はいります,*,*
+importante,17,adjetivos,たいせつ（な）,*,*
+estar bien,17,adjetivos,だいじょうぶ（な）,*,*
+peligroso,17,adjetivos,あぶない,*,*
+doler,17,adjetivos,いたい,*,*
+problema,17,sustantivo,もんだい,*,*
+pregunta,17,sustantivo,しつもん,*,*
+respuesta,17,sustantivo,こたえ,*,*
+prohibido fumar,17,sustantivo,きんえん,*,*
+tarjeta de obra social,17,sustantivo,けんこうほうけんしょう,*,*
+resfriado,17,sustantivo,かぜ,*,*
+fiebre,17,sustantivo,ねつ,*,*
+enfermedad,17,sustantivo,びょうき,*,*
+remedio,17,sustantivo,くすり,*,*
+bañadera,17,sustantivo,おふろ,*,*
+abrigo,17,sustantivo,うわぎ,*,上ぎ
+ropa interior,17,sustantivo,したぎ,*,下ぎ
+entonces,17,frases,ですから,*,*
+que te mejores pronto,17,frases,おだいじに,*,*
+que paso?,17,frases,どうしましたか,*,*
+adelante o antes,17,kanji,まえ,*,前
+hace tres dias,17,kanji,みっかまえ,*,三日前
+primera mitad,17,kanji,ぜんはん,*,前半
+AM,17,kanji,ごぜん,*,ご前
+atras o despues,17,kanji,あと,*,後
+atras,17,kanji,うしろ,*,後ろ
+ultimo,17,kanji,さいご,*,さい後
+PM,17,kanji,ごご,*,ご後
+adelante y atras,17,kanji,ぜんご,*,前後
+antes y despues,17,kanji,ぜんご,*,前後
+afuera,17,kanji,そと,*,外
+pais extranjero,17,kanji,がいこく,*,外国
+persona extranjera,17,kanji,がいこくじん,*,外国人
+idioma extranjero,17,kanji,がいこくご,*,外国語
+izquierda,17,kanji,ひだり,*,左
+derecha,17,kanji,みぎ,*,右
+mano izquierda,17,kanji,ひだりて,*,左手
+mano derecha,17,kanji,みぎて,*,右手
+diestro,17,kanji,みぎきき,*,右きき
+zurdo,17,kanji,ひだりきき,*,左きき
+izquierda y derecha,17,kanji,さゆう,*,左右
+lado derecho,17,kanji,みぎがわ,*,右がわ
+mirar a la izquierda y derecha,17,kanji,さゆう　を　みます,*,左右　を　みます
+Este,17,kanji,ひがし,*,東
+Tokyo,17,kanji,とうきょう,*,東京
+Entrada o Salida Este,17,kanji,ひがしぐち,*,東口
+Oriente,17,kanji,とうよう,*,東よう
+Oeste,17,kanji,にし,*,西
+Entrada o Salida Oeste,17,kanji,にしぐち,*,西口
+Este y Oeste,17,kanji,とうざい,*,東西
+Occidente,17,kanji,せいよう,*,西よう
+Kansai,17,kanji,かんさい,*,関西
+Sur,17,kanji,みなみ,*,南
+Entrada o Salida Sur,17,kanji,みなみぐち,*,南口
+SurEste,17,kanji,とうなん,*,東南
+Polo Sur,17,kanji,なんきょく,*,南きょく
+Norte,17,kanji,きた,*,北
+Entrada o Salida Norte,17,kanji,きたぐち,*,北口
+Norte y Sur,17,kanji,なんぼく,*,南北
+Polo Norte,17,kanji,ほっきょく,*,北きょく
+NorEste,17,kanji,とうほく,*,東北
+Hokkaido,17,kanji,ほっかいど,*,北かいど
+los puntos cardinales,17,kanji,とうざいなんほく,*,東西何北
+Nombre,17,kanji,なまえ,*,名前
+Famosos,17,kanji,ゆうめい,*,ゆう名
+N cantidad de personas,17,kanji,Nめい,*,N名
+apellido,17,kanji,みょうじ,*,名字
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ser capaz,18,verbos,できます,*,*
+lavar,18,verbos,あらいます,*,*
+tocar instrumento,18,verbos,ひきます,*,*
+cantar,18,verbos,うたいます,*,*
+coleccionar,18,verbos,あつめます,*,*
+tirar,18,verbos,すてます,*,*
+remplazar,18,verbos,かえます,*,*
+conducir automovil,18,verbos,うてんします,*,*
+reservar,18,verbos,よやくします,*,*
+visitar para estudiar un lugar,18,verbos,けんがくします,*,*
+rezar,18,verbos,いのりをします,*,*
+piano,18,sustantivo,ぴあの,ピアノ,*
+metros,18,sustantivo,-め-とる,-メ-トル,*
+internacional,18,sustantivo,こくさい,*,*
+dinero en efectivo,18,sustantivo,げんきん,*,げん金
+aficion,18,sustantivo,しゅみ,*,*
+diario,18,sustantivo,にっき,*,日っき
+oracion,18,sustantivo,[お]いのり,*,*
+jefe de seccion,18,sustantivo,かちょう,*,*
+gerente de departamento,18,sustantivo,ぶちょう,*,*
+presidente,18,sustantivo,しゃちょう,*,*
+animal,18,sustantivo,どうぶつ,*,*
+caballo,18,sustantivo,うま,*,*
+no es facil,18,adverbios,なかなか,*,*
+sin falta,18,adverbios,ぜひ,*,*
+ah si!,18,frases,へえ,*,*
+eso es interesante,18,frases,それはおもしろいですね,*,*
+en serio?,18,frases,ほんとうですか,*,*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
